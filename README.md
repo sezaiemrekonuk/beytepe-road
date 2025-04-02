@@ -1,46 +1,37 @@
 # Beytepe Road
 
-Modern Dönemin İpek Yolu - Hacettepe Üniversitesi için Özel Takas Platformu
-
-## Proje Hakkında
-
-Beytepe Road, boykot dönemlerinde toplulukların temel ihtiyaçlarını karşılamak için tasarlanmış modern bir takas platformudur. Platform, Hacettepe Üniversitesi öğrencileri için özel olarak geliştirilmiştir ve sadece @hacettepe.edu.tr mail adresleri ile giriş yapılabilmektedir.
+Beytepe Road, modern dünyada takas sistemini yeniden canlandırmayı amaçlayan bir SaaS projesidir. Boykot dönemlerinde insanların ihtiyaçlarını paylaşmasına ve elindeki ürünleri takas etmesine olanak sağlar.
 
 ## Özellikler
 
-- 🔄 Modern Takas Sistemi
-- 🤝 Güvenilir Topluluk
-- 🎓 Akademik Doğrulama (@hacettepe.edu.tr)
-- 💫 Modern ve Kullanıcı Dostu Arayüz
+- Sadece @hacettepe.edu.tr e-posta adresleri ile kayıt
+- Kolay ve kullanıcı dostu takas sistemi
+- Güvenli ve topluluk odaklı platform
+- Modern ve responsive tasarım
+
+## Teknolojiler
+
+- React
+- TypeScript
+- Chakra UI
+- React Router
+- Vite
 
 ## Geliştirme
 
-### Gereksinimler
+Projeyi yerel ortamınızda çalıştırmak için:
 
-- Node.js (v18+)
-- npm veya yarn
-
-### Kurulum
-
-1. Projeyi klonlayın:
-```bash
-git clone https://github.com/yourusername/beytepe-road.git
-cd beytepe-road
-```
-
-2. Bağımlılıkları yükleyin:
+1. Gerekli paketleri yükleyin:
 ```bash
 npm install
 ```
 
-3. Geliştirme sunucusunu başlatın:
+2. Geliştirme sunucusunu başlatın:
 ```bash
 npm run dev
 ```
 
-## Test Süreci
-
-Şu anda platform test aşamasındadır ve yalnızca @hacettepe.edu.tr uzantılı mail adresleri ile kayıt olunabilmektedir.
+3. Tarayıcınızda http://localhost:5173 adresini açın
 
 ## Lisans
 

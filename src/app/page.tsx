@@ -5,7 +5,6 @@ import HowItWorksSection from '../components/HowItWorksSection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import ContactSection from '../components/ContactSection';
 import Footer from '../components/Footer';
-import ThemeDebug from '../components/ThemeDebug';
 
 export default function Home() {
   return (
